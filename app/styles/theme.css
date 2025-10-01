@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Open Sans', sans-serif;
-  --oui-font-size-base: 21.5px;
+  --oui-font-family: 'Poppins', sans-serif;
+  --oui-font-size-base: 32px;
 
   /* colors */
   --oui-color-primary: 0 150 255;
@@ -18,12 +18,12 @@
   --oui-color-danger: 245 97 139;
   --oui-color-danger-light: 250 167 188;
   --oui-color-danger-darken: 237 72 122;
-  --oui-color-danger-contrast: 255 255 255;
+  --oui-color-danger-contrast: 234 225 225;
 
   --oui-color-success: 41 233 169;
   --oui-color-success-light: 100 250 200;
   --oui-color-success-darken: 0 200 100;
-  --oui-color-success-contrast: 255 255 255;
+  --oui-color-success-contrast: 237 217 217;
 
   --oui-color-warning: 255 209 70;
   --oui-color-warning-light: 255 229 133;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Open Sans', sans-serif !important;
-  font-size: 21.5px !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 32px !important;
 }
